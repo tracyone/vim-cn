@@ -15,8 +15,14 @@
 3. 至少原创过两个或者以上数量的vim插件
 4. 🇨🇳国籍
 
+Vim插件代表作以github上的关注度来选择，如果没有的话则以代码量来选择，选择前两个。
+
+名字上会带个人主页的地址没有则选择其它像github之类的有代表性的网址.
+
 # 人物列表
 
-名字 | github主页 | vim配置 | vim插件代表作
----- | ---------| --------- | --------------
-[依云](http://blog.lilydjwg.me/) | [lilydjwg](https://github.com/lilydjwg) | [dotvim](https://github.com/lilydjwg/dotvim) | [colorizer](https://github.com/lilydjwg/colorizer)
+注意：排名不分先后。
+
+名字 |  vim配置 | vim插件代表作 | 介绍 
+---- |  --------- | -------------- | ----
+[依云](http://blog.lilydjwg.me/) | [dotvim](https://github.com/lilydjwg/dotvim) | [colorizer](https://github.com/lilydjwg/colorizer),[fcitx.vim](https://github.com/lilydjwg/fcitx.vim) | linux,vim双大神，经常能在技术论坛看到它活跃的身影。
