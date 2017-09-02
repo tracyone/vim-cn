@@ -1,6 +1,7 @@
 
 
 <!-- vim-markdown-toc GFM -->
+
 * [介绍](#介绍)
 * [人物列表](#人物列表)
 * [资源](#资源)
@@ -37,9 +38,11 @@
 [韦易笑](http://www.skywind.me) | [vim](https://github.com/skywind3000/vim) | [asyncrun.vim](https://github.com/skywind3000/asyncrun.vim),[vimmake](https://github.com/skywind3000/vimmake) | 经常上[知乎](https://www.zhihu.com/people/skywind3000)回答vim相关问题的Vim爱好者，游戏程序员。
 [某Z](http://zsaber.com) | [zf_vimrc.vim](https://github.com/ZSaberLv0/zf_vimrc.vim) |[ZFVimTxtHighlight](https://github.com/ZSaberLv0/ZFVimTxtHighlight), [ZFVimFormater](https://github.com/ZSaberLv0/ZFVimFormater) | 厦门C++程序员，二次元。
 [mudox](http://mudox.github.io/) | [vim-config](https://github.com/mudox/vim-config) | [vim-chameleon](https://github.com/mudox/vim-chameleon),[vim-todo](https://github.com/mudox/vim-todo) | IOS程序员
-[wsdjeg](https://wsdjeg.github.io/) | [DotFiles](https://github.com/wsdjeg/DotFiles) | [GitHub.vim](https://github.com/wsdjeg/GitHub.vim),[vim-cheat](https://github.com/wsdjeg/vim-cheat) | 非常疯狂的Vim爱好者，从其配置使用插件数目便知道，其Dotfiles仓库更受欢迎.
+[wsdjeg](https://wsdjeg.github.io/) | [SpaceVim](https://github.com/SpaceVim/SpaceVim) | [GitHub.vim](https://github.com/wsdjeg/GitHub.vim),[vim-cheat](https://github.com/wsdjeg/vim-cheat) | 非常疯狂的Vim爱好者，SpaceVim作者，无需多说。
 [dyngr](http://blog.dyngr.com/) | [dotfile](https://github.com/dyng/dotfile) | [ctrlsf.vim](https://github.com/dyng/ctrlsf.vim) | line公司的程序员,ctrlsf
 [闲耘™](http://hotoo.me/) | [vimrc](https://github.com/hotoo/vimrc) | [pangu.vim](https://github.com/hotoo/pangu.vim),[template.vim](https://github.com/hotoo/template.vim) | 写有非常棒Vim教程博客❤️，带我入门Vim教程.
+[钟腾辉](https://github.com/tenfyzhong) | [VimScripts](https://github.com/tenfyzhong/VimScripts) | [CompleteParameter.vim](https://github.com/tenfyzhong/CompleteParameter.vim), [axring.vim](https://github.com/tenfyzhong/axring.vim) | 一个好吃懒动的后台程序猿，喜欢编程，喜欢黑白控制台。
+[roxma](https://github.com/roxma) | [dotfiles](https://github.com/roxma/dotfiles) | [nvim-completion-manager](https://github.com/roxma/nvim-completion-manager), [easymake](https://github.com/roxma/easymake) | 未知。
 
 # 资源
 
