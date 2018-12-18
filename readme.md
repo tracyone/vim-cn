@@ -43,6 +43,7 @@
 [闲耘™](http://hotoo.me/) | [vimrc](https://github.com/hotoo/vimrc) | [pangu.vim](https://github.com/hotoo/pangu.vim),[template.vim](https://github.com/hotoo/template.vim) | 写有非常棒Vim教程博客❤️，带我入门Vim教程.
 [钟腾辉](https://github.com/tenfyzhong) | [VimScripts](https://github.com/tenfyzhong/VimScripts) | [CompleteParameter.vim](https://github.com/tenfyzhong/CompleteParameter.vim), [axring.vim](https://github.com/tenfyzhong/axring.vim) | 一个好吃懒动的后台程序猿，喜欢编程，喜欢黑白控制台。
 [roxma](https://github.com/roxma) | [dotfiles](https://github.com/roxma/dotfiles) | [nvim-completion-manager](https://github.com/roxma/nvim-completion-manager), [easymake](https://github.com/roxma/easymake) | 未知。
+[Qiming zhao](https://chemzqm.me) | [vimrc](https://github.com/chemzqm/vimrc) | [coc.nvim](https://github.com/neoclide/coc.nvim), [wxapp.vim](https://github.com/chemzqm/wxapp.vim) | 启明, 前端老司机精通 JavaScript 代码设计，对于桌面端、移动端、响应式设计、小程序开发都有深入研究。熟悉 shell，也开发过许多 vim 插件，偶尔也弄弄 sketch
 
 # 资源
 
