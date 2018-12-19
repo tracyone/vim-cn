@@ -45,6 +45,7 @@
 [roxma](https://github.com/roxma) | [dotfiles](https://github.com/roxma/dotfiles) | [nvim-completion-manager](https://github.com/roxma/nvim-completion-manager), [easymake](https://github.com/roxma/easymake) | 未知。
 [Qiming zhao](https://chemzqm.me) | [vimrc](https://github.com/chemzqm/vimrc) | [coc.nvim](https://github.com/neoclide/coc.nvim), [wxapp.vim](https://github.com/chemzqm/wxapp.vim) | 启明, 前端老司机精通 JavaScript 代码设计，对于桌面端、移动端、响应式设计、小程序开发都有深入研究。熟悉 shell，也开发过许多 vim 插件，偶尔也弄弄 sketch
 [Yggdroot](https://github.com/Yggdroot) | 无 | [indentLine](https://github.com/Yggdroot/indentLine), [LeaderF](https://github.com/Yggdroot/LeaderF) | 千年一梦
+[lymslive](https://github.com/lymslive) | [dotvim](https://github.com/lymslive/dotvim) | [vimloo](https://github.com/lymslive/vimloo), [autoplug](https://github.com/lymslive/autoplug), [vimllearn](https://github.com/lymslive/vimllearn) | 非专业 C++/Perl/VimL 程序员，代码如若写作，人生如若初见
 
 
 
