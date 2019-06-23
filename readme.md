@@ -46,7 +46,8 @@
 [Qiming zhao](https://chemzqm.me) | [vimrc](https://github.com/chemzqm/vimrc) | [coc.nvim](https://github.com/neoclide/coc.nvim), [wxapp.vim](https://github.com/chemzqm/wxapp.vim) | 启明, 前端老司机精通 JavaScript 代码设计，对于桌面端、移动端、响应式设计、小程序开发都有深入研究。熟悉 shell，也开发过许多 vim 插件，偶尔也弄弄 sketch
 [Yggdroot](https://github.com/Yggdroot) | 无 | [indentLine](https://github.com/Yggdroot/indentLine), [LeaderF](https://github.com/Yggdroot/LeaderF) | 千年一梦
 [lymslive](https://github.com/lymslive) | [dotvim](https://github.com/lymslive/dotvim) | [vimloo](https://github.com/lymslive/vimloo), [autoplug](https://github.com/lymslive/autoplug), [vimllearn](https://github.com/lymslive/vimllearn) | 非专业 C++/Perl/VimL 程序员，代码如若写作，人生如若初见
-[tracyone](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzI0NzA4OTQ1Mg==&scene=124#wechat_redirect) | [vinux](https://github.com/tracyone/vinux) | [neomake-multiprocess](https://github.com/tracyone/neomake-multiprocess)| “Vim癌”晚期患者
+[tracyone](https://zhuanlan.zhihu.com/tracyone) | [vinux](https://github.com/tracyone/vinux) | [neomake-multiprocess](https://github.com/tracyone/neomake-multiprocess)| “Vim癌”晚期患者
+[徐留成](http://liuchengxu.org) | [space-vim](https://github.com/liuchengxu/space-vim) |[space-vim](https://github.com/liuchengxu/space-vim),[vim-which-key](https://github.com/liuchengxu/vim-which-key),[vista.vim](https://github.com/liuchengxu/vista.vim) | 毕业与深圳大学，主修计算机，机器学习等。是第一个发起在vim上发起类似spacemacs的人，其具有非常独特的品味，几个vim插件都做得非常受欢迎
 
 
 
