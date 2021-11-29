@@ -49,8 +49,7 @@
 [tracyone](https://zhuanlan.zhihu.com/tracyone) | [vinux](https://github.com/tracyone/vinux) | [neomake-multiprocess](https://github.com/tracyone/neomake-multiprocess)| “Vim癌”晚期患者
 [徐留成](http://liuchengxu.org) | [space-vim](https://github.com/liuchengxu/space-vim) |[space-vim](https://github.com/liuchengxu/space-vim),[vim-which-key](https://github.com/liuchengxu/vim-which-key),[vista.vim](https://github.com/liuchengxu/vista.vim) | 毕业于深圳大学，主修计算机，机器学习等。是第一个发起在vim上发起类似spacemacs项目的人，其具有非常独特的品味，几个vim插件都做得非常受欢迎，正如其项目所示，其作品的确是优雅简洁然后又非常好用。
 [voldikss](https://voldikss.me/post/about/) | [dotfiles](https://github.com/voldikss/dotfiles) | [vim-translate-me](https://github.com/voldikss/vim-translate-me), [vim-search-me](https://github.com/voldikss/vim-search-me) | Material Science and Engineering , Metal Processing , Vimmer , For fun 
-
-
+[涛叔](https://taoshu.in/) | [epii1/vim](https://github.com/epii1/vim) | [phpcd.vim](https://github.com/epii1/phpcd.vim) | 哔哩哔哩 资深开发工程师。[其知乎](https://www.zhihu.com/people/taoshu0)写有不少不错的vim文章
 
 # 资源
 
