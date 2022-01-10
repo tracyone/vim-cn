@@ -51,6 +51,8 @@
 [voldikss](https://voldikss.me/post/about/) | [dotfiles](https://github.com/voldikss/dotfiles) | [vim-translate-me](https://github.com/voldikss/vim-translate-me), [vim-search-me](https://github.com/voldikss/vim-search-me) | Material Science and Engineering , Metal Processing , Vimmer , For fun 
 [涛叔](https://taoshu.in/) | [epii1/vim](https://github.com/epii1/vim) | [phpcd.vim](https://github.com/epii1/phpcd.vim) | 哔哩哔哩 资深开发工程师。[其知乎](https://www.zhihu.com/people/taoshu0)写有不少不错的vim文章
 [Raphael](https://github.com/glepnir) | [nvim](https://github.com/glepnir/nvim) | [dashboard-nvim](https://github.com/glepnir/dashboard-nvim),     [galaxyline.nvim](https://github.com/glepnir/galaxyline.nvim),[lspsaga.nvim](https://github.com/glepnir/lspsaga.nvim) | A Gopher that is building my own web framework now Neovim Core Maintainer And like to build neovim plugin use lua go rust
+[kevinhwang91](https://github.com/kevinhwang91) |  [nvim](https://github.com/kevinhwang91/dotfiles/tree/main/nvim) | [nvim-bqf](https://github.com/kevinhwang91/nvim-bqf),[nvim-hlslens](https://github.com/kevinhwang91/nvim-hlslens) | NONE
+
 
 # 资源
 
